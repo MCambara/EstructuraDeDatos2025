@@ -48,6 +48,6 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/TUF/Downloads/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TUF/Desktop/Universidad/Quinto Semestre 2025/Programación III/lombok.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
